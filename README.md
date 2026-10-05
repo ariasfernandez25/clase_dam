@@ -3,4 +3,4 @@
 lo que sea
 ## Modo de empleo
 [Acceso a Datos](http://www.google.es)
-*Usar la aplicacion bajo tu responsabilidad*
+**Usar la aplicacion bajo tu responsabilidad**
