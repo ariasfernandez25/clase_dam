@@ -5,3 +5,4 @@ lo que sea
 [Acceso a Datos](http://www.google.es)
 
 **Usar la aplicacion bajo tu responsabilidad**
+Desde local
